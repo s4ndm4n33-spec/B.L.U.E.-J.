@@ -88,8 +88,6 @@
     "@types/openai": "^4.0.0", 
     "@types/dotenv": "^8.2.0",
     "@types/uuid": "^8.3.4",  
-    "@types/zod": "^3.24.0",
-    "@types/wouter": "^3.3.5",
     "@types/react-markdown": "^10.1.0",
     "vite": "^6.0.0",
     "@vitejs/plugin-react": "^4.3.4",
